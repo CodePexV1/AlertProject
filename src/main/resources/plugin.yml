@@ -1,0 +1,11 @@
+name: AlertProject
+version: '1.0-SNAPSHOT'
+main: org.example.main.alertProject.AlertProject
+api-version: '1.20'
+authors: [ CodePex ]
+description: A popup message to all the players that in the server.
+website: https://github.com/CodePexV1
+commands:
+  alert:
+  alertinfo:
+
